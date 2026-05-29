@@ -1,17 +1,35 @@
 # Hi, I'm Pantelis Stanimeros 👋
 
-Full-stack developer based in **Thessaloniki, Greece** — I help businesses build digital products that grow their presence and streamline operations.
+**MSc in AI & Data Analytics** | Full-stack developer & researcher based in **Thessaloniki, Greece**
 
-## What I do
+I build intelligent systems — from autonomous vehicle ecosystems and reinforcement learning agents to production web & mobile apps.
 
-- 🌐 **Websites & Landing Pages** — clean, fast, conversion-focused
-- 🛒 **E-commerce** — online stores with real business impact
-- 📱 **Mobile Apps** — iOS & Android, cross-platform
-- 🤖 **AI Agents & Chatbots** — LLM-powered automations and assistants
+## Research Interests
 
-## Tech & Skills
+- 🤖 **AI Agents & Reinforcement Learning**
+- 🚗 **Autonomous Vehicles & Human-AV Ecosystems**
+- 🛸 **Drones & Autonomous Systems**
+- 🧠 **Neural Networks & Deep Learning**
+- 🔒 **Privacy-Preserving Algorithms**
+- 📍 **Location-Based Services**
 
-`React` `TypeScript` `Firebase` `Flutter` `Node.js` `AI/LLM` `Maps` `Payments` `Cloud`
+## Publications
+
+| Paper | Venue | Year |
+|---|---|---|
+| [Near for All: Clustering-Based Privacy-Preserving Meetings for Human–Autonomous Vehicle Ecosystems](https://doi.org/10.1007/s42979-025-03862-6) | SN Computer Science | 2026 |
+| [Near: A Mobile Social Network for Finding Nearest Users with Privacy Preservation](https://link.springer.com/chapter/10.1007/978-3-031-83601-2_14) | MEDES 2024 (Springer) | 2025 |
+
+## What I Build
+
+- 🌐 **Web & Mobile Apps** — React, TypeScript, Flutter, Firebase
+- 🤖 **AI Agents & LLM-powered systems**
+- 📊 **ML pipelines & data analytics**
+- 🛒 **E-commerce & SaaS platforms**
+
+## Tech Stack
+
+`Python` `PyTorch` `TensorFlow` `React` `TypeScript` `Flutter` `Firebase` `Node.js` `Cloud`
 
 ## Portfolio Highlights
 
@@ -19,9 +37,9 @@ Full-stack developer based in **Thessaloniki, Greece** — I help businesses bui
 |---|---|
 | [IrisDrop](https://irisdrop.web.app) | SaaS platform for print shops |
 | [Veridictum](https://veridictum.ai) | AI-powered legal document analysis |
-| [ski-greece.gr](https://ski-greece.gr) | Ski resort directory & info |
 | [Tattoo Healer](https://tattoo-healer.com) | Web & mobile app for tattoo aftercare |
 | [Hedeos](https://hedeos.gr) | Language learning mobile app |
+| [ski-greece.gr](https://ski-greece.gr) | Ski resort directory & info |
 | [e-karotsi.gr](https://e-karotsi.gr) | Online supermarket & delivery |
 
 ## Connect
