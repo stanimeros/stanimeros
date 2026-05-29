@@ -29,6 +29,7 @@ I build intelligent systems — from autonomous vehicle ecosystems and reinforce
 
 ## Tech Stack
 
+
 `Python` `PyTorch` `TensorFlow` `React` `TypeScript` `Flutter` `Firebase` `Node.js` `Cloud`
 
 ## Portfolio Highlights
