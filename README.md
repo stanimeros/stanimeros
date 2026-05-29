@@ -13,35 +13,32 @@ I build intelligent systems — from autonomous vehicle ecosystems and reinforce
 - 🔒 **Privacy-Preserving Algorithms**
 - 📍 **Location-Based Services**
 
-## Publications
-
-| Paper | Venue | Year |
-|---|---|---|
-| [Near for All: Clustering-Based Privacy-Preserving Meetings for Human–Autonomous Vehicle Ecosystems](https://doi.org/10.1007/s42979-025-04517-w) | SN Computer Science | 2026 |
-| [Near: A Mobile Social Network for Finding Nearest Users with Privacy Preservation](https://doi.org/10.1007/978-3-031-93598-5_11) | Communications in Computer and Information Science (Springer) | 2025 |
-
 ## What I Build
 
-- 🌐 **Web & Mobile Apps** — React, TypeScript, Flutter, Firebase
+- 🌐 **Web & Mobile Apps** — React, TypeScript, Flutter
 - 🤖 **AI Agents & LLM-powered systems**
 - 📊 **ML pipelines & data analytics**
 - 🛒 **E-commerce & SaaS platforms**
 
 ## Tech Stack
 
-
-`Python` `PyTorch` `TensorFlow` `React` `TypeScript` `Flutter` `Firebase` `Node.js` `Cloud`
+`Python` `PyTorch` `TensorFlow` `React` `TypeScript` `Flutter` `Node.js` `Cloud`
 
 ## Portfolio Highlights
 
 | Project | Description |
 |---|---|
-| [IrisDrop](https://irisdrop.web.app) | SaaS platform for print shops |
-| [Veridictum](https://veridictum.ai) | AI-powered legal document analysis |
-| [Tattoo Healer](https://tattoo-healer.com) | Web & mobile app for tattoo aftercare |
-| [Hedeos](https://hedeos.gr) | Language learning mobile app |
-| [ski-greece.gr](https://ski-greece.gr) | Ski resort directory & info |
-| [e-karotsi.gr](https://e-karotsi.gr) | Online supermarket & delivery |
+| [ant-colony-epymarl](https://github.com/stanimeros/ant-colony-epymarl) | Ant colony optimization with multi-agent RL |
+| [bioasq-mesh-classifier](https://github.com/stanimeros/bioasq-mesh-classifier) | Biomedical NLP — MeSH label classification |
+| [fashion-mnist-clustering-and-visualization](https://github.com/stanimeros/fashion-mnist-clustering-and-visualization) | Clustering & visualization on Fashion-MNIST |
+| [cvrp-solver-using-variable-neighborhood-search-vns](https://github.com/stanimeros/cvrp-solver-using-variable-neighborhood-search-vns) | CVRP solver using Variable Neighborhood Search |
+
+## Publications
+
+| Paper | Venue | Year |
+|---|---|---|
+| [Near for All: Clustering-Based Privacy-Preserving Meetings for Human–Autonomous Vehicle Ecosystems](https://doi.org/10.1007/s42979-025-04517-w) | SN Computer Science | 2026 |
+| [Near: A Mobile Social Network for Finding Nearest Users with Privacy Preservation](https://doi.org/10.1007/978-3-031-93598-5_11) | Communications in Computer and Information Science (Springer) | 2025 |
 
 ## Connect
 
