@@ -17,8 +17,8 @@ I build intelligent systems — from autonomous vehicle ecosystems and reinforce
 
 | Paper | Venue | Year |
 |---|---|---|
-| [Near for All: Clustering-Based Privacy-Preserving Meetings for Human–Autonomous Vehicle Ecosystems](https://doi.org/10.1007/s42979-025-03862-6) | SN Computer Science | 2026 |
-| [Near: A Mobile Social Network for Finding Nearest Users with Privacy Preservation](https://link.springer.com/chapter/10.1007/978-3-031-83601-2_14) | MEDES 2024 (Springer) | 2025 |
+| [Near for All: Clustering-Based Privacy-Preserving Meetings for Human–Autonomous Vehicle Ecosystems](https://doi.org/10.1007/s42979-025-04517-w) | SN Computer Science | 2026 |
+| [Near: A Mobile Social Network for Finding Nearest Users with Privacy Preservation](https://doi.org/10.1007/978-3-031-93598-5_11) | Communications in Computer and Information Science (Springer) | 2025 |
 
 ## What I Build
 
