@@ -1,36 +1,34 @@
-### Pantelis Stanimeros
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Pantelis Stanimeros — AI researcher & full-stack developer" width="100%"></picture>
 
-Full-stack developer and researcher in Thessaloniki, Greece. MSc in AI & Data Analytics.
+<p align="center">
+  <a href="https://stanimeros.com"><img src="https://img.shields.io/badge/stanimeros.com-0b0f1a?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" alt="Website"></a>
+  <a href="https://linkedin.com/in/stanimeros"><img src="https://img.shields.io/badge/LinkedIn-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" alt="LinkedIn"></a>
+  <a href="mailto:hello@stanimeros.com"><img src="https://img.shields.io/badge/hello@stanimeros.com-0b0f1a?style=for-the-badge&logo=maildotru&logoColor=ec4899" alt="Email"></a>
+</p>
 
 I work on how autonomous agents, vehicles and people coordinate in space without giving up their privacy, and I ship production web and mobile apps along the way.
 
-[stanimeros.com](https://stanimeros.com) · [LinkedIn](https://linkedin.com/in/stanimeros) · [hello@stanimeros.com](mailto:hello@stanimeros.com)
+## Publications
 
----
+<a href="https://doi.org/10.1145/3841645.3843410"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pub-sigspatial-dark.svg"><img src="assets/pub-sigspatial-light.svg" alt="Toward Decentralized Spatial Coordination Among Heterogeneous Agents with Undisclosed Preferences (ACM SIGSPATIAL 2026)" width="100%"></picture></a>
 
-#### Publications
+<a href="https://doi.org/10.1007/s42979-025-04517-w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pub-sncs-dark.svg"><img src="assets/pub-sncs-light.svg" alt="Near for All (SN Computer Science, 2026)" width="100%"></picture></a>
 
-**Toward Decentralized Spatial Coordination Among Heterogeneous Agents with Undisclosed Preferences**<br>
-P. Stanimeros, C. Kiourt, A. Karakasidis<br>
-<sub>ACM SIGSPATIAL 2026 · Vision Paper · Riverside, CA</sub>
+<a href="https://doi.org/10.1007/978-3-031-93598-5_11"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pub-ccis-dark.svg"><img src="assets/pub-ccis-light.svg" alt="Near (CCIS, Springer, 2025)" width="100%"></picture></a>
 
-**[Near for All: Clustering-Based Privacy-Preserving Meetings for Human–Autonomous Vehicle Ecosystems](https://doi.org/10.1007/s42979-025-04517-w)**<br>
-<sub>SN Computer Science · 2026</sub>
+## Selected work
 
-**[Near: A Mobile Social Network for Finding Nearest Users with Privacy Preservation](https://doi.org/10.1007/978-3-031-93598-5_11)**<br>
-<sub>Communications in Computer and Information Science, Springer · 2025</sub>
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/stanimeros/ant-colony-epymarl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-ant-colony-dark.svg"><img src="assets/proj-ant-colony-light.svg" alt="ant-colony-epymarl" width="100%"></picture></a></td>
+<td width="50%"><a href="https://github.com/stanimeros/bioasq-mesh-classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-bioasq-dark.svg"><img src="assets/proj-bioasq-light.svg" alt="bioasq-mesh-classifier" width="100%"></picture></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/stanimeros/cvrp-solver-using-variable-neighborhood-search-vns"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-cvrp-dark.svg"><img src="assets/proj-cvrp-light.svg" alt="cvrp-solver-using-variable-neighborhood-search-vns" width="100%"></picture></a></td>
+<td width="50%"><a href="https://github.com/stanimeros/fashion-mnist-clustering-and-visualization"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-fashion-dark.svg"><img src="assets/proj-fashion-light.svg" alt="fashion-mnist-clustering-and-visualization" width="100%"></picture></a></td>
+</tr>
+</table>
 
-#### Research
+## Stack
 
-Multi-agent systems & reinforcement learning · Autonomous vehicles & drones · Privacy-preserving location services · Deep learning
-
-#### Selected work
-
-- [**ant-colony-epymarl**](https://github.com/stanimeros/ant-colony-epymarl) — ant colony optimization with multi-agent RL
-- [**bioasq-mesh-classifier**](https://github.com/stanimeros/bioasq-mesh-classifier) — biomedical NLP, MeSH label classification
-- [**cvrp-solver-using-variable-neighborhood-search-vns**](https://github.com/stanimeros/cvrp-solver-using-variable-neighborhood-search-vns) — vehicle routing with Variable Neighborhood Search
-- [**fashion-mnist-clustering-and-visualization**](https://github.com/stanimeros/fashion-mnist-clustering-and-visualization) — clustering and embedding visualization
-
-#### Stack
-
-<sub>Python · PyTorch · TensorFlow · TypeScript · React · Node.js · Flutter</sub>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ts,react,nodejs,flutter&theme=dark" alt="Python, PyTorch, TensorFlow, TypeScript, React, Node.js, Flutter">
