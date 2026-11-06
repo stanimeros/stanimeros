@@ -1,9 +1,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Pantelis Stanimeros — AI researcher & full-stack developer" width="100%"></picture>
 
 <p align="center">
-  <a href="https://stanimeros.com"><img src="https://img.shields.io/badge/stanimeros.com-0b0f1a?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" alt="Website"></a>
-  <a href="https://linkedin.com/in/stanimeros"><img src="https://img.shields.io/badge/LinkedIn-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" alt="LinkedIn"></a>
-  <a href="mailto:hello@stanimeros.com"><img src="https://img.shields.io/badge/hello@stanimeros.com-0b0f1a?style=for-the-badge&logo=maildotru&logoColor=ec4899" alt="Email"></a>
+  <a href="https://stanimeros.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-web-dark.svg"><img src="assets/btn-web-light.svg" alt="stanimeros.com" height="40"></picture></a>
+  <a href="https://linkedin.com/in/stanimeros"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn" height="40"></picture></a>
+  <a href="mailto:hello@stanimeros.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mail-dark.svg"><img src="assets/btn-mail-light.svg" alt="hello@stanimeros.com" height="40"></picture></a>
 </p>
 
 I work on how autonomous agents, vehicles and people coordinate in space without giving up their privacy, and I ship production web and mobile apps along the way.
